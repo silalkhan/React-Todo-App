@@ -27,10 +27,9 @@ Tailwind CSS
 
 📸 Screenshots
 
-![alt text](image.png)
+![alt text](src/assets/image.png)
 
-![alt text](image-1.png)
-
+![alt text](src/assets/image-1.png)
 
 🧠 Learning Focus
 
