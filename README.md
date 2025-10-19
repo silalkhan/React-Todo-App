@@ -1,7 +1,7 @@
 📝 React Todo App
 
-A simple and clean React Todo Application built to practice state management, hooks, and local storage.
-Users can add, edit, delete, and mark todos as complete — and all data stays even after refreshing!
+A simple and clean React Todo Application built to practice state management, hooks and local storage.
+Users can add, edit, delete and mark todos as complete — and all data stays even after refreshing!
 
 🚀 Features
 
@@ -23,7 +23,7 @@ React.js
 
 Vite
 
-Tailwind CSS (optional if you used it)
+Tailwind CSS
 
 📸 Screenshots
 
