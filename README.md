@@ -32,8 +32,6 @@ Tailwind CSS
 ![alt text](image-1.png)
 
 
-(Place your image file in the project root or inside an assets folder.)
-
 🧠 Learning Focus
 
 This mini project helped me understand:
